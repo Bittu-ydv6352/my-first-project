@@ -7,6 +7,6 @@ int main(){
     int age = 18;
 
     cout<<"My name is:"<<name<<endl;
-    cout<<"age is:"<<18<<endl;
+    cout<<"age is:"<<age<<endl;
     return 0;
 }
